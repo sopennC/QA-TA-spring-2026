@@ -1,0 +1,15 @@
+.venv/
+.env.override
+
+__pycache__/
+*.pyc
+
+allure-results/
+allure-report/
+
+.pytest_cache/
+.ruff_cache/
+
+.DS_Store
+.idea/
+.vscode/
